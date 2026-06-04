@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Release](https://img.shields.io/github/v/release/abhaylad2005/LSA-Image-Recovery)
+
 # LSA Image Recovery Tool v1.0.0
 
 A Python GUI application for recovering encrypted `.lsa` image files from Xiaomi/Redmi devices.
