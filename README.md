@@ -1,4 +1,4 @@
-# LSA Image Recovery Tool
+# LSA Image Recovery Tool v1.0.0
 
 A Python GUI application for recovering encrypted `.lsa` image files from Xiaomi/Redmi devices.
 
