@@ -31,12 +31,38 @@ LSA-Image-Recovery/
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
-└── lsa_recovery_app.py
+├── lsa_recovery_app.py
+│
+└── screenshots/
+    ├── home page.png
+    ├── select folder.png
+    ├── decryption result.png
+    └── output.png
 ```
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home%20page.png)
+
+### Select Folder
+
+![Select Folder](screenshots/select%20folder.png)
+
+### Decryption Result
+
+![Decryption Result](screenshots/decryption%20result.png)
+
+### Output Folder
+
+![Output](screenshots/output.png)
 
 ## Disclaimer
 
 This tool is intended for recovering your own backed-up images from Xiaomi/Redmi devices.
+
+The decryption method was tested on files recovered from a Redmi 9 Power device. Compatibility with other Xiaomi/Redmi devices or MIUI versions may vary.
 
 ## License
 
